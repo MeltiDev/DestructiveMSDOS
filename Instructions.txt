@@ -1,9 +1,0 @@
-You need two computers.
-(1)Attacker
-(2)Victim
-When you execute this, this WILL disconnect the internet and lose the IP adress. 
-If you want to restore the internet, ask the attacker for the solution.
-This is in solution.bat.
-Run the solution and it should create a connection.
-This is to test, to counteract it for future attacks.
-I am not to blame for any destruction of your device.
